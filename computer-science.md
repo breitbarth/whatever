@@ -3,8 +3,8 @@
 ![](https://live.staticflickr.com/4387/36231833334_3252f05552_b.jpg)
 
 # Computer Science
-* [Architecture](#architecture)
-* [Operating System](#operating-system)
+* [Computer Architecture](#computer-architecture)
+* [Operating Systems](#operating-systems)
   * [Linux](#linux)
 * [Computer Networks](#computer-networks)
   * [Protocols](#protocols)
@@ -21,16 +21,25 @@
   * [UML](#uml)
   * [Testing](#testing)
 * [Cyber Security](#cyber-security)
+* [Distributed Computing](#distributed-computing)
 * [Blockchain](#blockchain)
 * [Artificial Intelligence](#artificial-intelligence)
 
-## Architecture
+## Computer Architecture
 * [**The Hardware/Software Interface**](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL) [playlist]
 
-## Operating System
+## Operating Systems
 * [**The BIOS/MBR Boot Process**](https://neosmart.net/wiki/mbr-boot-process/) [webpage]  
 ### Memory management
+* Virtual Memory  
+* Garbage Collection  
+
 ### Process management
+* Scheduling  
+* Monitors  
+* Deadlocks  
+* Multithreading  
+
 ### Linux
 * [**File system**: Structure explained](https://www.youtube.com/watch?v=HbgzrKJvDRw) [video]  
 * [**Commands with description**](https://www.mediacollege.com/linux/command/linux-command.html) [webpage]  
