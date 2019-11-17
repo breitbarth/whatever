@@ -29,6 +29,8 @@
 
 ## Operating System
 * [**The BIOS/MBR Boot Process**](https://neosmart.net/wiki/mbr-boot-process/) [webpage]  
+### Memory management
+### Process management
 ### Linux
 * [**File system**: Structure explained](https://www.youtube.com/watch?v=HbgzrKJvDRw) [video]  
 * [**Commands with description**](https://www.mediacollege.com/linux/command/linux-command.html) [webpage]  
@@ -167,6 +169,11 @@ TBC
 
 ### Reverse Engineering
 * [**React**](https://vimeo.com/showcase/3930691) [playlist]  
+
+## Distributed Computing
+### Cloud Computing
+### Grid Computing
+### Client-Server Architecture
 
 ## Blockchain
 * [**The Basics**](https://hackernoon.com/blockchain-for-students-101-the-basics-part-1-f39b8201a7d5) [article]  
