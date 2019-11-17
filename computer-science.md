@@ -22,6 +22,7 @@
   * [Testing](#testing)
 * [Cyber Security](#cyber-security)
 * [Blockchain](#blockchain)
+* [Artificial Intelligence](#artificial-intelligence)
 
 ## Architecture
 * [**The Hardware/Software Interface**](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL) [playlist]
@@ -63,7 +64,9 @@
 * UDP - User Datagram Protocol
 
 #### Internet Layer
-* IP - Internet Protocol
+* [**IPv4**: Warum IP?(German)](https://youtu.be/X344jZ2gowA?t=80) [video]  
+* IPv6
+* IPsec
 * [**ICMP**: Internet Control Message Protocol](https://youtu.be/glPuwhMNQ2s) [video]  
 * [**ICMP**(German)](https://youtu.be/PU6xFCkj0Yg) [video]  
 * [**ARP**: Address Resolution Protocol](https://www.youtube.com/watch?v=cn8Zxh9bPio) [video]  
@@ -160,9 +163,14 @@ TBC
 * [**Exploit Exercises**](https://exploit-exercises.lains.space/) [webpage]  
 * [**Pwnable**](https://pwnable.kr/play.php) [webpage]  
 * [**Overthewire Wargames**](https://overthewire.org/wargames/) [webpage]  
+* [**Cybrary**](https://www.cybrary.it/) [webpage]  
 
 ### Reverse Engineering
 * [**React**](https://vimeo.com/showcase/3930691) [playlist]  
 
 ## Blockchain
 * [**The Basics**](https://hackernoon.com/blockchain-for-students-101-the-basics-part-1-f39b8201a7d5) [article]  
+
+## Artificial Intelligence
+* [**Introduction to Convolutional Neural Networks**](https://victorzhou.com/blog/intro-to-cnns-part-1/) [article]  
+* [**Introduction to Recurrent Neural Networks**](https://victorzhou.com/blog/intro-to-rnns/) [article]  
