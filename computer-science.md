@@ -20,7 +20,7 @@
 * [Software Engineering](#software-engineering)
   * [UML](#uml)
   * [Testing](#testing)
-* [Ethical Hacking](#ethical-hacking)
+* [Cyber Security](#cyber-security)
 * [Blockchain](#blockchain)
 
 ## Architecture
@@ -42,7 +42,7 @@
 ### Protocols
 #### Application Layer
 * [**HTTP**: Hypertext Transfer Protocol](https://youtu.be/LZJNj-HHfII) [video]  
-* [**DNS**: Domain Name System](https://www.youtube.com/watch?v=mpQZVYPuDGU) [video]  
+* [**DNS**: Domain Name System](https://youtu.be/GlZC4Jwf3xQ) [video]  
 * [**DNS**](https://twitter.com/sh_shaygan/status/950572700182790144) [cheatsheet]  
 * [**DNS over HTTPS**](https://youtu.be/G6rMxxIZMsE?t=9) [video]  
 * [**DHCP**: Dynamic Host Configuration Protocol](https://www.youtube.com/watch?v=e6-TaH5bkjo) [video]  
@@ -58,6 +58,7 @@
 * [**NTRIP**](https://www.agsgis.com/What-is-NTRIP_b_42.html) [webpage]  
 
 #### Transport Layer
+* [**Comparison of Transport Protocols**](https://youtu.be/Vdc8TCESIg8) [video]  
 * TCP - Transmission Control Protocol  
 * UDP - User Datagram Protocol
 
@@ -153,7 +154,7 @@ TBC
 * [**End To End Testing**: What is End To End Testing?](https://youtu.be/wycIcpuLkzU) [video]  
 * [**Integration Testing**: What is Integration Testing?](https://youtu.be/kRD6PA6uxiY) [video]  
 
-## Ethical Hacking
+## Cyber Security
 * [**CyberChef**: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/) [tool]  
 * [**Binary Exploitation**](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) [playlist]  
 * [**Exploit Exercises**](https://exploit-exercises.lains.space/) [webpage]  
