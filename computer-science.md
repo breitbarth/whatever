@@ -51,10 +51,10 @@
 * [**POP3 vs. IMAP**](https://www.youtube.com/watch?v=SBaARws0hy4) [video]  
 * [**SNMP**: Simple Network Management Protocol](https://youtu.be/ZX-XGQoISHQ) [video]  
 * [**SSH**: Secure Shell](https://www.youtube.com/watch?v=PXi-39elr6Y) [video]  
-* [**GPSoverIP**(German)](https://www.gpsoverip.de/infos/details-zu-gpsoverip/) [website]  
+* [**GPSoverIP**(German)](https://www.gpsoverip.de/infos/details-zu-gpsoverip/) [webpage]  
 * [**DATAoverIP**(German)](https://www.gpsoverip.de/infos/details-zu-dataoverip/) [webpage]  
 * [**NTRIP**: Networked Transport of RTCM via Internet Protocol](https://youtu.be/R0Hry5kR1jY) [video]  
-* [**NTRIP**](https://www.agsgis.com/What-is-NTRIP_b_42.html) [website]  
+* [**NTRIP**](https://www.agsgis.com/What-is-NTRIP_b_42.html) [webpage]  
 
 #### Transport Layer
 
