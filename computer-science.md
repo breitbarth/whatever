@@ -26,10 +26,10 @@
 * [**The Hardware/Software Interface**](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL) [playlist]
 
 ## Operating System
-* [**The BIOS/MBR Boot Process**](https://neosmart.net/wiki/mbr-boot-process/) [website]  
+* [**The BIOS/MBR Boot Process**](https://neosmart.net/wiki/mbr-boot-process/) [webpage]  
 ### Linux
 * [**File system**: Structure explained](https://www.youtube.com/watch?v=HbgzrKJvDRw) [video]  
-* [**Commands with description**](https://www.mediacollege.com/linux/command/linux-command.html) [website]  
+* [**Commands with description**](https://www.mediacollege.com/linux/command/linux-command.html) [webpage]  
 
 ## Computer Networks
 * [**OSI and TCP/IP model**](https://www.youtube.com/watch?v=Pje0l5r7_lk) [video]  
@@ -45,14 +45,14 @@
 * [**DNS**](https://twitter.com/sh_shaygan/status/950572700182790144) [cheatsheet]  
 * [**DNS over HTTPS**](https://youtu.be/G6rMxxIZMsE?t=9) [video]  
 * [**DHCP**: Dynamic Host Configuration Protocol](https://www.youtube.com/watch?v=e6-TaH5bkjo) [video]  
-* [**DHCP vs. BOOTP**](https://techdifferences.com/difference-between-bootp-and-dhcp.html) [website]  
+* [**DHCP vs. BOOTP**](https://techdifferences.com/difference-between-bootp-and-dhcp.html) [webpage]  
 * [**FTP/SFTP/TFTP**: File Transfer Protocol](https://www.youtube.com/watch?v=tOj8MSEIbfA) [video]  
 * [**SMTP**: Simple Mail Transfer Protocol](https://www.youtube.com/watch?v=PJo5yOtu7o8) [video]  
 * [**POP3 vs. IMAP**](https://www.youtube.com/watch?v=SBaARws0hy4) [video]  
 * [**SNMP**: Simple Network Management Protocol](https://youtu.be/ZX-XGQoISHQ) [video]  
 * [**SSH**: Secure Shell](https://www.youtube.com/watch?v=PXi-39elr6Y) [video]  
 * [**GPSoverIP**(German)](https://www.gpsoverip.de/infos/details-zu-gpsoverip/) [website]  
-* [**DATAoverIP**(German)](https://www.gpsoverip.de/infos/details-zu-dataoverip/) [website]  
+* [**DATAoverIP**(German)](https://www.gpsoverip.de/infos/details-zu-dataoverip/) [webpage]  
 * [**NTRIP**: Networked Transport of RTCM via Internet Protocol](https://youtu.be/R0Hry5kR1jY) [video]  
 * [**NTRIP**](https://www.agsgis.com/What-is-NTRIP_b_42.html) [website]  
 
@@ -91,16 +91,18 @@
 * [Pass by Value vs. Pass by Reference vs. Pass by Pointer](https://www.youtube.com/watch?v=UWYnUGnChhA) [video]  
 * [Pass by Pointer vs. Pass by Pointer Reference](https://www.youtube.com/watch?v=7HmCb343xR8) [video]  
 * [Double Pointer](https://www.youtube.com/watch?v=ZMDYsr9scGo) [video]  
-* [Learn C++](https://www.learncpp.com/) [website]  
-* [Studytonight](https://www.studytonight.com/cpp/) [website]  
+* [Learn C++](https://www.learncpp.com/) [webpage]  
+* [Studytonight](https://www.studytonight.com/cpp/) [webpage]  
 * [Kurze Tutorials (German)](https://www.youtube.com/playlist?list=PL58qjcU5nk8tzPn77IDRLpj_kL1IxmT_2) [playlist]  
-* [Zusammenfassung (German)](https://www.online-vba.de/cpp_zusammenfassung.php) [website]  
+* [Zusammenfassung (German)](https://www.online-vba.de/cpp_zusammenfassung.php) [webpage]  
 
 ### Assembly
 #### `x86`
-* [**x86 Assembler**](https://www.youtube.com/playlist?list=PLan2CeTAw3pFOq5qc9urw8w7R-kvAT8Yb) [video]  
+* [**Instructions**](https://www.aldeid.com/wiki/X86-assembly/Instructions) [webpage]  
+* [**Assembler**](https://www.youtube.com/playlist?list=PLan2CeTAw3pFOq5qc9urw8w7R-kvAT8Yb) [video]  
+
 #### `ARM`
-* [**ARM Assembler**](https://azeria-labs.com/writing-arm-assembly-part-1/) [website]  
+* [**ARM Assembler**](https://azeria-labs.com/writing-arm-assembly-part-1/) [webpage]  
 #### `WebAssembly`
 * [**WasmExplorer**](https://mbebenita.github.io/WasmExplorer/) [tool]  
 
@@ -113,11 +115,13 @@
 
 ## Algorithms
 * [**Complexity**: Introduction](https://www.youtube.com/watch?v=IgeJmTKQlKs) [video]  
-* [**Complexity**: Runtime (German)](https://www.youtube.com/watch?v=sVDHsLBD2hs) [video]
-
-## Data Structures
+* [**Complexity**: Runtime (German)](https://www.youtube.com/watch?v=sVDHsLBD2hs) [video]  
+### Graph
 * [Depth First Search](https://youtu.be/7fujbpJ0LB4) [video]  
 * [Breadth First Search](https://youtu.be/oDqjPvD54Ss) [video]  
+
+## Data Structures
+TBC
 
 ## Information Theory
 * [Shannon Entropy](https://youtu.be/_PG-jJKB_do) [video]  
@@ -138,9 +142,9 @@
 ## Ethical Hacking
 * [**CyberChef**: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/) [tool]  
 * [**Binary Exploitation**](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) [playlist]  
-* [**Exploit Exercises**](https://exploit-exercises.lains.space/) [website]  
-* [**Pwnable**](https://pwnable.kr/play.php) [website]  
-* [**Overthewire Wargames**](https://overthewire.org/wargames/) [website]  
+* [**Exploit Exercises**](https://exploit-exercises.lains.space/) [webpage]  
+* [**Pwnable**](https://pwnable.kr/play.php) [webpage]  
+* [**Overthewire Wargames**](https://overthewire.org/wargames/) [webpage]  
 
 ### Reverse Engineering
 * [**React**](https://vimeo.com/showcase/3930691) [playlist]  
