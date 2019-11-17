@@ -21,6 +21,7 @@
   * [UML](#uml)
   * [Testing](#testing)
 * [Ethical Hacking](#ethical-hacking)
+* [Blockchain](#blockchain)
 
 ## Architecture
 * [**The Hardware/Software Interface**](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL) [playlist]
@@ -57,13 +58,22 @@
 * [**NTRIP**](https://www.agsgis.com/What-is-NTRIP_b_42.html) [webpage]  
 
 #### Transport Layer
+* TCP - Transmission Control Protocol  
+* UDP - User Datagram Protocol
 
 #### Internet Layer
+* IP - Internet Protocol
 * [**ICMP**: Internet Control Message Protocol](https://youtu.be/glPuwhMNQ2s) [video]  
 * [**ICMP**(German)](https://youtu.be/PU6xFCkj0Yg) [video]  
-
-#### Link Layer
 * [**ARP**: Address Resolution Protocol](https://www.youtube.com/watch?v=cn8Zxh9bPio) [video]  
+* IGMP - Internet Group Management Protocol  
+* BGP - Border Gateway Protocol  
+* OSPF - Open Shortest Path First  
+* RIP - Routing Information Protocol  
+
+#### Network Access Layer
+* PPP - Point to Point Protocol  
+* Ethernet 
 
 ## Theory of Computation
 * [**Automata Theory**](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) [playlist]  
@@ -71,6 +81,10 @@
 ## Programming
 * [**Carbon**: Share beautiful images of your source code](https://carbon.now.sh/) [tool]  
 * [**Stackshare**: Find the right developer tools](https://stackshare.io/) [tool]  
+* [**Codeproject**: Free source code and tutorials](https://www.codeproject.com/)  
+* [**Stackoverflow**: Question and answers](https://stackoverflow.com/)  
+* [**Coderanch**: Question and answers](https://coderanch.com/)  
+* [**Stackexchange**: Question and answers](https://stackexchange.com/)  
 
 ### Web
 * [**Insomnia**: Rest API Debugger](https://insomnia.rest/) [tool]  
@@ -148,3 +162,6 @@ TBC
 
 ### Reverse Engineering
 * [**React**](https://vimeo.com/showcase/3930691) [playlist]  
+
+## Blockchain
+* [**The Basics**](https://hackernoon.com/blockchain-for-students-101-the-basics-part-1-f39b8201a7d5) [article]  
