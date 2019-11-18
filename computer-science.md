@@ -90,6 +90,23 @@
 * PPP - Point to Point Protocol  
 * Ethernet 
 
+### Standards
+TBC
+
+### Quality Of Service (QoS)
+TBC
+
+### Transmission Technologies
+#### Modulation
+#### Multiplexing
+
+### Access Technologies
+#### Wired
+#### Wireless
+
+### Network Topologies
+
+
 ## Theory of Computation
 * [**Automata Theory**](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) [playlist]  
 
