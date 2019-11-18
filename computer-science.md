@@ -177,6 +177,7 @@ TBC
 
 ### Reverse Engineering
 * [**React**](https://vimeo.com/showcase/3930691) [playlist]  
+* [**C++**](https://www.blackhat.com/presentations/bh-dc-07/Sabanal_Yason/Paper/bh-dc-07-Sabanal_Yason-WP.pdf) [pdf]  
 
 ## Distributed Computing
 ### Cloud Computing
