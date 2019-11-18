@@ -76,8 +76,8 @@
 
 #### Internet Layer
 * [**IPv4**: Warum IP?(German)](https://youtu.be/X344jZ2gowA?t=80) [video]  
-* IPv6
-* IPsec
+* [**IPv6**](https://packetlife.net/media/library/8/IPv6.pdf) [cheatsheet]  
+* [**IPsec**](https://packetlife.net/media/library/6/IPsec.pdf) [cheatsheet]  
 * [**ICMP**](https://youtu.be/glPuwhMNQ2s) [video]  
 * [**ICMP**(German)](https://youtu.be/PU6xFCkj0Yg) [video]  
 * [**ARP**](https://www.youtube.com/watch?v=cn8Zxh9bPio) [video]  
@@ -158,6 +158,7 @@ TBC
 ## Cryptography
 * [Asymmetric encryption](https://youtu.be/AQDCe585Lnc) [video]  
 * [Hash functions and passwords](https://youtu.be/cczlpiiu42M) [video]  
+* [Diffie-Hellman Key Exchange](https://youtu.be/YEBfamv-_do) [video]  
 
 ## Software Engineering
 ### UML
