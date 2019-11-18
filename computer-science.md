@@ -55,16 +55,16 @@
 #### Application Layer
 * [**HTTP**: Hypertext Transfer Protocol](https://youtu.be/LZJNj-HHfII) [video]  
 ##### DNS - Domain Name System
-* [**DNS**: Domain Name System](https://youtu.be/GlZC4Jwf3xQ) [video]  
+* [**DNS**](https://youtu.be/GlZC4Jwf3xQ) [video]  
 * [**DNS**](https://twitter.com/sh_shaygan/status/950572700182790144) [cheatsheet]  
 * [**DNS over HTTPS**](https://youtu.be/G6rMxxIZMsE?t=9) [video]  
 ##### DHCP - Dynamic Host Configuration Protocol
-* [**DHCP**: Dynamic Host Configuration Protocol](https://www.youtube.com/watch?v=e6-TaH5bkjo) [video]  
+* [**DHCP**](https://www.youtube.com/watch?v=e6-TaH5bkjo) [video]  
 * [**DHCP vs. BOOTP**](https://techdifferences.com/difference-between-bootp-and-dhcp.html) [webpage]  
 ##### FTP - File Transfer Protocol
-* [**FTP/SFTP/TFTP**: File Transfer Protocol](https://www.youtube.com/watch?v=tOj8MSEIbfA) [video]  
+* [**FTP/SFTP/TFTP**](https://www.youtube.com/watch?v=tOj8MSEIbfA) [video]  
 ##### Mail
-* [**SMTP**: Simple Mail Transfer Protocol](https://www.youtube.com/watch?v=PJo5yOtu7o8) [video]  
+* [**SMTP**](https://www.youtube.com/watch?v=PJo5yOtu7o8) [video]  
 * [**POP3 vs. IMAP**](https://www.youtube.com/watch?v=SBaARws0hy4) [video]  
 ##### SNMP - Simple Network Management Protocol
 * [**SNMP**](https://youtu.be/ZX-XGQoISHQ) [video]  
@@ -87,11 +87,11 @@
 * [**IPv4**: Warum IP?(German)](https://youtu.be/X344jZ2gowA?t=80) [video]  
 * IPv6
 * IPsec
-##### ICMP
-* [**ICMP**: Internet Control Message Protocol](https://youtu.be/glPuwhMNQ2s) [video]  
+##### ICMP - Internet Control Message Protocol
+* [**ICMP**](https://youtu.be/glPuwhMNQ2s) [video]  
 * [**ICMP**(German)](https://youtu.be/PU6xFCkj0Yg) [video]  
-##### ARP
-* [**ARP**: Address Resolution Protocol](https://www.youtube.com/watch?v=cn8Zxh9bPio) [video]  
+##### ARP - Address Resolution Protocol
+* [**ARP**](https://www.youtube.com/watch?v=cn8Zxh9bPio) [video]  
 ##### Routing
 * IGMP - Internet Group Management Protocol  
 * BGP - Border Gateway Protocol  
