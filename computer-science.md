@@ -166,11 +166,15 @@ TBC
 * [Breadth First Search](https://youtu.be/oDqjPvD54Ss) [video]  
 
 ## Data Structures
-TBC
+### Tree
+* [Introduction](https://youtu.be/1XC3p2zBK34) [video]  
 
 ## Information Theory
 * [Shannon Entropy](https://youtu.be/_PG-jJKB_do) [video]  
 * [Shannon Entropy and information gain](https://youtu.be/9r7FIXEAGvs) [video]  
+* [Huffman Codierung(German)](https://youtu.be/7kIesH1SWDM) [video]  
+* [Markov chain](https://youtu.be/o-jdJxXL_W4) [video]  
+* [Hammingcode](https://youtu.be/sANR9nA-8rA) [video]  
 
 ## Cryptography
 * [Asymmetric encryption](https://youtu.be/AQDCe585Lnc) [video]  
@@ -204,9 +208,13 @@ TBC
 ## Distributed Computing
 ### Cloud Computing
 * [**Cloudcraft**: Cloud architecture visualization](https://cloudcraft.co/) [tool]  
+* [**Cloud Computing Explained**](https://youtu.be/QJncFirhjPg) [video]  
 
 ### Grid Computing
+TBC
+
 ### Client-Server Architecture
+TBC
 
 ## Blockchain
 * [**The Basics**](https://hackernoon.com/blockchain-for-students-101-the-basics-part-1-f39b8201a7d5) [article]  
