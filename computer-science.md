@@ -81,7 +81,7 @@
 * [**ICMP**](https://youtu.be/glPuwhMNQ2s) [video]  
 * [**ICMP**(German)](https://youtu.be/PU6xFCkj0Yg) [video]  
 * [**ARP**](https://www.youtube.com/watch?v=cn8Zxh9bPio) [video]  
-* IGMP - Internet Group Management Protocol  
+* [**IGMP**](https://networkel.com/what-is-igmp/) [webpage]  
 * BGP - Border Gateway Protocol  
 * OSPF - Open Shortest Path First  
 * RIP - Routing Information Protocol  
