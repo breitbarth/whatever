@@ -105,7 +105,6 @@
 * [**Insomnia**: Rest API Debugger](https://insomnia.rest/) [tool]  
 * [**Bundlephobia**: NPM package cost](https://bundlephobia.com/) [tool]  
 * [**VisBug**](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) [tool]  
-* [**Cloudcraft**: Cloud architecture visualization](https://cloudcraft.co/) [tool]  
 
 #### `React-Redux`
 * [**React-Redux**: Egghead](https://egghead.io/react-redux-cheatsheets) [cheatsheet]  
@@ -181,6 +180,8 @@ TBC
 
 ## Distributed Computing
 ### Cloud Computing
+* [**Cloudcraft**: Cloud architecture visualization](https://cloudcraft.co/) [tool]  
+
 ### Grid Computing
 ### Client-Server Architecture
 
