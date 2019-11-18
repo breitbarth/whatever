@@ -54,26 +54,18 @@
 ### Protocols
 #### Application Layer
 * [**HTTP**: Hypertext Transfer Protocol](https://youtu.be/LZJNj-HHfII) [video]  
-##### DNS - Domain Name System
 * [**DNS**](https://youtu.be/GlZC4Jwf3xQ) [video]  
 * [**DNS**](https://twitter.com/sh_shaygan/status/950572700182790144) [cheatsheet]  
 * [**DNS over HTTPS**](https://youtu.be/G6rMxxIZMsE?t=9) [video]  
-##### DHCP - Dynamic Host Configuration Protocol
 * [**DHCP**](https://www.youtube.com/watch?v=e6-TaH5bkjo) [video]  
 * [**DHCP vs. BOOTP**](https://techdifferences.com/difference-between-bootp-and-dhcp.html) [webpage]  
-##### FTP - File Transfer Protocol
 * [**FTP/SFTP/TFTP**](https://www.youtube.com/watch?v=tOj8MSEIbfA) [video]  
-##### Mail
 * [**SMTP**](https://www.youtube.com/watch?v=PJo5yOtu7o8) [video]  
 * [**POP3 vs. IMAP**](https://www.youtube.com/watch?v=SBaARws0hy4) [video]  
-##### SNMP - Simple Network Management Protocol
 * [**SNMP**](https://youtu.be/ZX-XGQoISHQ) [video]  
-##### SSH - Secure Shell
 * [**SSH**](https://www.youtube.com/watch?v=PXi-39elr6Y) [video]  
-##### GPSoverIP
 * [**GPSoverIP**(German)](https://www.gpsoverip.de/infos/details-zu-gpsoverip/) [webpage]  
 * [**DATAoverIP**(German)](https://www.gpsoverip.de/infos/details-zu-dataoverip/) [webpage]  
-##### NTRIP - Networked Transport of RTCM via Internet Protocol
 * [**NTRIP**](https://youtu.be/R0Hry5kR1jY) [video]  
 * [**NTRIP**](https://www.agsgis.com/What-is-NTRIP_b_42.html) [webpage]  
 
@@ -83,16 +75,12 @@
 * UDP - User Datagram Protocol
 
 #### Internet Layer
-##### IP
 * [**IPv4**: Warum IP?(German)](https://youtu.be/X344jZ2gowA?t=80) [video]  
 * IPv6
 * IPsec
-##### ICMP - Internet Control Message Protocol
 * [**ICMP**](https://youtu.be/glPuwhMNQ2s) [video]  
 * [**ICMP**(German)](https://youtu.be/PU6xFCkj0Yg) [video]  
-##### ARP - Address Resolution Protocol
 * [**ARP**](https://www.youtube.com/watch?v=cn8Zxh9bPio) [video]  
-##### Routing
 * IGMP - Internet Group Management Protocol  
 * BGP - Border Gateway Protocol  
 * OSPF - Open Shortest Path First  
