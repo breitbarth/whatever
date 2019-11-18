@@ -12,6 +12,7 @@
 
 ### Iconography
 * [**The Noun Project**](https://thenounproject.com/) [website]  
+* [**Icons8**](https://icons8.com/icons) [website]  
 
 ### Typography
 TBC
