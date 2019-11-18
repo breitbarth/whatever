@@ -170,15 +170,19 @@ TBC
 
 ## Cyber Security
 * [**CyberChef**: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/) [tool]  
-* [**Binary Exploitation**](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) [playlist]  
 * [**Exploit Exercises**](https://exploit-exercises.lains.space/) [webpage]  
-* [**Pwnable**](https://pwnable.kr/play.php) [webpage]  
-* [**Overthewire Wargames**](https://overthewire.org/wargames/) [webpage]  
 * [**Cybrary**](https://www.cybrary.it/) [webpage]  
+
+### Binary Exploitation
+* [**Binary Exploitation**](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) [playlist]  
 
 ### Reverse Engineering
 * [**React**](https://vimeo.com/showcase/3930691) [playlist]  
 * [**C++**](https://www.blackhat.com/presentations/bh-dc-07/Sabanal_Yason/Paper/bh-dc-07-Sabanal_Yason-WP.pdf) [pdf]  
+
+### CTF
+* [**Pwnable**](https://pwnable.kr/play.php) [webpage]  
+* [**Overthewire Wargames**](https://overthewire.org/wargames/) [webpage]  
 
 ## Distributed Computing
 ### Cloud Computing
@@ -191,5 +195,5 @@ TBC
 * [**The Basics**](https://hackernoon.com/blockchain-for-students-101-the-basics-part-1-f39b8201a7d5) [article]  
 
 ## Artificial Intelligence
-* [**Introduction to Convolutional Neural Networks**](https://victorzhou.com/blog/intro-to-cnns-part-1/) [article]  
-* [**Introduction to Recurrent Neural Networks**](https://victorzhou.com/blog/intro-to-rnns/) [article]  
+* [**Convolutional Neural Networks**: Introduction](https://victorzhou.com/blog/intro-to-cnns-part-1/) [article]  
+* [**Recurrent Neural Networks**: Introduction](https://victorzhou.com/blog/intro-to-rnns/) [article]  
